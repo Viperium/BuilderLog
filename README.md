@@ -5,6 +5,7 @@ A log where I summarize what I have learned and done
 
 | Date | Repository | Tags | Description | Activity |
 |---|---|---|---|---|
+| 03-09-2020 | onePage | Native HTML/CSS, SASS | Project was orignally with sass so I put it in. | 1 day |
 | 01-09-2020 | onePage | Native HTML/CSS | Following tutorial of Kevin Powell for a onepage. Had a nice parallax effect in the banner | 1 day |
 | 31-08-2020 | HouseDataCMS | Laravel, Native HTML/CSS | Worked on the feedback that I got back. SQL issue and contactform | 1 day |
 | 26-08-2020 | HouseDataCMS | Laravel, Native HTML/CSS | Finishing up the functionalities and customized the layout more. | 1 day |
