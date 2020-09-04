@@ -1,4 +1,4 @@
-Go to [BuildersLog](readme.md).
+Go to [BuildersLog](README.md).
 
 Go to [Projects](Projects.md).
 
