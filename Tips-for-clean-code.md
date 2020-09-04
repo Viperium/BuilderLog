@@ -1,3 +1,7 @@
+Go to [BuildersLog](readme.md).
+
+Go to [Projects](Projects.md).
+
 ## 10 Tips for cleaner code
 
 1. You're responsible for code quality.
