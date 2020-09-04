@@ -1,3 +1,7 @@
+Go to [BuildersLog](README.md).
+
+Go to [Cleaner Code](Tips-for-clean-code.md).
+
 ## Small projects for portfolio
 1. Web application using api
 2. Bronchure site
