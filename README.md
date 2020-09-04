@@ -1,10 +1,15 @@
 # BuilderLog
-A log where I summarize what I have learned and done
+A log where I summarize what I have learned/done and what is yet to come.
+
+Upcoming [Projects](Projects.md).
+
+Tips for [clean code](Tips-for-clean-code.md).
 
 ## Log
 
 | Date | Repository | Tags | Description | Activity |
 |---|---|---|---|---|
+| 03-09-2020 | PHPSpec | PHP, PHPSpec |  | 1 day |
 | 03-09-2020 | onePage | Native HTML/CSS, SASS | Project was orignally with sass so I put it in. | 1 day |
 | 01-09-2020 | onePage | Native HTML/CSS | Following tutorial of Kevin Powell for a onepage. Had a nice parallax effect in the banner | 1 day |
 | 31-08-2020 | HouseDataCMS | Laravel, Native HTML/CSS | Worked on the feedback that I got back. SQL issue and contactform | 1 day |
